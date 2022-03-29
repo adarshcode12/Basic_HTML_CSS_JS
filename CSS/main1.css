@@ -1,0 +1,23 @@
+h3{
+    color: rgb(255,105,180);
+}
+
+h2{
+    background-color: yellowgreen;
+  }
+
+  p{
+      background-image: url(images.png);
+      color: grey;
+  }
+
+#R1{
+    background-image: url(images.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#R2{
+    background-size: 400px 100px;
+    background-repeat: no-repeat;
+}
