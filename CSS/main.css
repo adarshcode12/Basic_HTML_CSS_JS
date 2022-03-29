@@ -1,0 +1,29 @@
+p{
+    color: gray;
+    font-size: 70sp;
+}
+h1{
+    font: bold;
+    color: brown;
+}
+
+#bo{
+    font: italic;
+    color: violet;
+    font-size: 60sp;
+}
+
+.bo_class{
+    font: menu;
+    color: tomato;
+    font-size: xx-large;
+}
+
+#cl{
+    color: chocolate;
+}
+
+.cl{
+    color: chartreuse;
+}
+
