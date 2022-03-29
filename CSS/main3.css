@@ -1,0 +1,62 @@
+#border{
+    border: solid;
+    border-width: 5px 4px 3px 2px;
+    border-color: black;
+}
+
+#border2{
+    border: dotted;
+    height: 200px;
+    width: 100px;
+    border-color: black;
+}
+
+#border3{
+    border: solid;
+    max-width: 400px;
+    max-height: 100px;
+    border-color: black;
+}
+
+#padd{
+    border: solid;
+    padding-top: 10px;
+    padding: auto;
+    padding: 10px 10px 10px 10px;
+    margin-top:0px ;
+    margin-left: 10px;
+}
+
+#properties{
+    text-align: centre;
+    text-decoration: overline;
+    text-transform: capitalize;
+    line-height: 30px;
+    text-indent: 20px;
+    word-spacing: 20px;
+
+}
+
+
+a{
+    color: black;
+}
+
+a:link{
+    color: yellow;
+}
+a:hover{
+    color: green;
+}
+a:active{
+    color: blue;
+}
+
+
+
+#fonts{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+}
