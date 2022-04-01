@@ -1,0 +1,29 @@
+#id_1{
+    border: solid;
+    height: 100px;
+    width: 100px;
+    cursor: row-resize;
+}
+#id_2{
+    background-color: maroon;
+    box-shadow: 10px 15px grey;
+}
+
+#id_3{
+    opacity: 0.3;
+}
+
+#img{
+    filter: blur();
+    filter: brightness(50px);
+    filter: contrast(70%);
+    filter: drop-shadow(10px 5px 5px);
+    filter: grayscale(10%);
+}
+
+
+#gra{
+    border: 1px solid;
+    height: 40px;
+    background-image: linear-gradient(240dig,yellow,blue,grey);
+}
